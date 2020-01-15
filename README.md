@@ -1,9 +1,13 @@
-# microFE
+## microFE
 achieve microFE by single-spa
 
-# install
+## Project setup
+```
 npm run installs
+```
 
-# dev
+### Compiles and hot-reloads for development
+```
 npm run start
 open http://localhost:8080
+```
